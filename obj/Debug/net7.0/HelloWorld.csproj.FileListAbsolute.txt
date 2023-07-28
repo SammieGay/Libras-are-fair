@@ -1,0 +1,15 @@
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/smylezstudioz/sgrepos/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
